@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colemanvictor25
 - 👀 I’m interested in Web , App , 3D Modeling Development
-- 🌱 I’m currently learning ... PHP JAVA KOLIN
+- 🌱 I’m currently learning ... PHP Javascript python kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... colemanvictor25@gmail.com
 
